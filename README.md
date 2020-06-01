@@ -8,9 +8,6 @@ The full name of EEG is Electrocephalogram, the data analysis consist of several
 4. matplotlib
 5. theano
 
-# The dataset used
-[http://www.bbci.de/competition/ii.]
-
 # The process of running the experiment
 run piecewise_deep_csp
 
